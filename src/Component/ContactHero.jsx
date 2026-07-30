@@ -5,7 +5,7 @@ import Particles from "./Common/Particles";
 const offices = [
   {
     title: "Head Office (US)",
-    desc: "123 Innovation Drive, Suite 500, San Francisco, CA 94105",
+    desc: "1010 NW J Street, Suite G ,Bentonville, AR-72712, USA.",
   },
   {
     title: "India Office (Nagpur)",
