@@ -41,7 +41,12 @@ const Footer = () => {
           <span className="break-all">hr-manager@abcocomputers.com</span>
         </a>
 
-        <div className="flex items-start gap-3">
+        <div className="flex items-start gap-4">
+          <img src={mapIcon} className="w-5 h-5 mt-1" />
+          <span className="text-[12px]">
+            1010 NW J Street, Suite G ,Bentonville, AR-72712, USA.
+            
+          </span>
           <img src={mapIcon} className="w-5 h-5 mt-1" />
           <span className="text-[12px]">
             Plot No. 47, 3rd Floor, Kotwal Nagar, Khamla, Laxmi Nagar , Nagpur, Maharashtra, India, 440022 
